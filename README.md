@@ -1,163 +1,143 @@
+<div align="center">
 
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Ashraf Ali Shaik
 
-<!-- ========================================= -->
-<!-- Animated Banner -->
-<!-- ========================================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Senior+Data+Analyst;Power+BI+Developer;Python+Developer;Analytics+Engineer;Business+Intelligence+Engineer" />
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4facfe,100:00f2fe&text=MOHAMMAD%20ASHRAF%20ALI%20SHAIK&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20SQL%20Developer%20|%20BI%20Developer&descAlignY=58"/>
-</p>
+---
 
-<p align="center">
+### Transforming Raw Data into Business Decisions 📊
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+There!+👋;Data+Analyst;SQL+Developer;Power+BI+Developer;Python+Automation;AWS+Cloud;Business+Intelligence;Turning+Data+Into+Business+Decisions"/>
+<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I am a passionate **Data Analyst** focused on building scalable analytics solutions that transform complex datasets into actionable business insights.
+
+I enjoy solving business problems using
+
+- SQL
+- Python
+- Power BI
+- Tableau
+- Excel
+- AWS
+- ETL Pipelines
+
+---
+
+# 🎯 Current Focus
+
+✔ Advanced SQL
+
+✔ Data Warehousing
+
+✔ Power BI Dashboards
+
+✔ AWS Analytics
+
+✔ Python Automation
+
+✔ Analytics & Data Engineering
+
+---
+
+# 💻 Tech Stack
+
+## Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
 
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## Analytics
 
-```yaml
-Name: Mohammad Ashraf Ali Shaik
-Role: Data Analyst
-Experience : 4+ years of Experience in IT as Data Analyst.
-
-Focus:
-  - SQL Development
-  - Power BI
-  - Python Automation
-  - AWS
-  - Dashboard Development
-  - ETL
-  - Business Intelligence
-
-Currently Learning:
-  - Data Engineering
-  - Machine Learning
-  - Azure
-```
+- SQL
+- Power BI
+- Tableau
+- Excel
+- Pandas
+- NumPy
+- ETL
+- Data Modeling
+- Data Cleaning
+- Dashboard Design
 
 ---
-💎 Tech Stack
 
-<p align="center">
+# 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=python,git,github,aws,vscode"/>
+| Category | Tools |
+|----------|-------|
+| Database | SQL Server, PostgreSQL, MySQL |
+| BI | Power BI, Tableau|
+| Programming | Python |
+| Cloud | AWS |
+| Version Control | Git, GitHub |
+| Spreadsheet | Excel |
 
-</p>
+---
 
-<p align="center">
+# 📂 Featured Portfolio
 
-<img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql"/>
+| Project | Status |
+|----------|--------|
+| SQL Portfolio | 🚧 Coming Soon |
+| Python Projects | 🚧 Coming Soon |
+| Power BI Dashboards | 🚧 Coming Soon |
+| AWS ETL | 🚧 Coming Soon |
+| Data Warehouse | 🚧 Coming Soon |
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
+---
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+# 📫 Connect With Me
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<a href="https://www.linkedin.com/in/shaikmohammadashrafali/">
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
-
-</p>
-
-⚡ SQL Terminal
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00FF99&center=true&width=900&lines=SELECT+*+FROM+Business_Data;WHERE+Insights='Growth';GROUP+BY+Success;ORDER+BY+Continuous_Learning;COMMIT;"/>
-
-</p>
-
-📊 GitHub Dashboard
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
-
-</p>
-
-🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
-🚀 Featured Projects
-Project	Stack
-Sales Analytics Dashboard	SQL + Power BI
-HR Analytics	Power BI
-Banking Analysis	SQL + Python
-Customer Churn Prediction	Python
-ETL Automation	Python + SQL
-AWS Analytics Pipeline	AWS
-🌌 Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shaikmohammadashrafali">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="YOUR_PORTFOLIO">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
 <a href="mailto:mohammadashrafshaik.ai2630@gmail.com">
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 
 </a>
 
 </p>
 
-👀 Visitors
+---
 
-<p align="center">
+# ⭐ Quote
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+> "Without data, you're just another person with an opinion."
 
-</p>
+— W. Edwards Deming
 
-<p align="center">
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=12,20,24,30"/>
+<div align="center">
 
-</p> ```
+### ⭐ Thanks for visiting my profile!
 
-
+</div>
