@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohammad Ashraf Ali Shaik
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Senior+Data+Analyst;Power+BI+Developer;Python+Developer;Analytics+Engineer;Business+Intelligence+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Senior+Data+Analyst;Power+BI+Developer;Python+Developer;Business+Intelligence+Engineer" />
 
 ---
 
